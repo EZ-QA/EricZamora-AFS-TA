@@ -1,0 +1,23 @@
+{
+  "name": "ericzamora-afs-ta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EZ-QA/EricZamora-AFS-TA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/EZ-QA/EricZamora-AFS-TA/issues"
+  },
+  "homepage": "https://github.com/EZ-QA/EricZamora-AFS-TA#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}

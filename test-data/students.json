@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@test.com",
+    "gender": "Male",
+    "mobile": "0912345678",
+    "dateOfBirth": "10 June,1995",
+    "subjects": ["Maths", "English"],
+    "hobbies": ["Sports", "Reading"],
+    "picture": "sample-photo.jpg",
+    "address": "Makati City, Philippines",
+    "state": "NCR",
+    "city": "Delhi"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@test.com",
+    "gender": "Female",
+    "mobile": "0998765432",
+    "dateOfBirth": "15 August,1998",
+    "subjects": ["Accounting", "Arts"],
+    "hobbies": ["Music"],
+    "picture": "sample-photo.jpg",
+    "address": "Paranaque City, Philippines",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow"
+  }
+]
